@@ -1,1 +1,1 @@
-# stat_data_analysis_project
+# Statistical Data Analysis Project
